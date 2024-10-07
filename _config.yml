@@ -20,12 +20,12 @@
 
 title: MTE 481 Capstone Design Log
 email: jesse.xia@uwaterloo.ca
-description: >- # this means to ignore newlines until "baseurl:"
+description: >-
   Design log for mechatronics engineering capstone project (F2024 MTE 481) by Henry Gu,
   Joshua Auw-Yang, Henchel Santillan, Jesse Xia. 
 domain: "x-jesse.github.io"
-baseurl: "/mte-capstone" # the subpath of your site, e.g. /blog
-url: "https://x-jesse.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/mte-capstone"
+url: "https://x-jesse.github.io"
 # twitter_username: jekyllrb
 # github_username:  mte-capstone
 
