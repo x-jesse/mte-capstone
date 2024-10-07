@@ -16,4 +16,4 @@ Our primary solutions are:
 
 3. Autonomous climbing robots capable of traversing the structure's exterior.
 
-4. 
+4. Using thermal cameras, inspectors can identify temperature differences on roof surfaces to detect issues such as leaks or insulation failures.
