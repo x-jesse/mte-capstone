@@ -10,8 +10,10 @@ We're interested in building a solution for structural integrity analysis and au
 
 Our primary solutions are:
 
-1. Building a semi-autonomous drone and flying it around the structure, taking pictures and performing damage inference using CV/ML
+1. Building a semi-autonomous drone and flying it around the structure, taking pictures and performing damage inference using CV/ML.
 
 2. Embedding sensors directly into the building structure, monitoring the structure health via various indicators like humidity. 
 
-3. 
+3. Autonomous climbing robots capable of traversing the structure's exterior.
+
+4. 
