@@ -3,7 +3,7 @@
 https://x-jesse.github.io/mte-capstone/
 
 
-Semi-Autonomous Dro
+Semi-Autonomous Drone for Structural Analysis
 
 September 30, 2024
 
