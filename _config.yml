@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: MTE 481 Capstone Design Log
+title: MTE 481/482 Capstone Design and Build Log
 email: jesse.xia@uwaterloo.ca
 description: >-
-  Design log for mechatronics engineering capstone project (F2024 MTE 481) by Henry Gu,
+  Design log (F2024 MTE 481) and build log (W2025 MTE 482) for mechatronics engineering capstone project by Henry Gu,
   Joshua Auw-Yang, Henchel Santillan, Jesse Xia. 
 domain: "x-jesse.github.io"
 baseurl: "/mte-capstone"
